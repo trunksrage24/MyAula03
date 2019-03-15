@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncDec", "IncDec\IncDec.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "ChatBot\ChatBot.csproj", "{6CA09708-0609-4FBD-A633-DE4FF75A11FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piramide", "Piramide\Piramide.csproj", "{2F94FA0C-66DA-4ECC-A265-27F9321CC5B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6CA09708-0609-4FBD-A633-DE4FF75A11FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CA09708-0609-4FBD-A633-DE4FF75A11FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CA09708-0609-4FBD-A633-DE4FF75A11FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F94FA0C-66DA-4ECC-A265-27F9321CC5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F94FA0C-66DA-4ECC-A265-27F9321CC5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F94FA0C-66DA-4ECC-A265-27F9321CC5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F94FA0C-66DA-4ECC-A265-27F9321CC5B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
