@@ -11,7 +11,7 @@ namespace IncDec
             Console.WriteLine(c);
 
             int d = 2, e = -5, f;
-            f = --d - --e;
+            f = --d + --e;
             Console.WriteLine(f);
         }
     }
